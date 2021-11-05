@@ -1,5 +1,5 @@
 <h1 align="center">Hallo Selamat datang di github👋, doniprastyo25</h1>
-<h3 align="center">I'm Doni Prastyo, I'm familiar with HTML, CSS, Javascript , and I,m on learning ReactJs technology lately, I'm not expert with that technology but i've enthusiast for keep learning.</h3>
+<h3 align="center">I'm Doni Prastyo, I'm familiar with HTML, CSS, Javascript , and I,m on learning ReactJs technology lately, I'm not expert with that technology but i've enthusiast for keep learning adn improve my english.</h3>
 
 - 🌱 I’m currently learning **ReactJs**
 
