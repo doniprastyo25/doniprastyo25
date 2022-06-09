@@ -1,6 +1,6 @@
-<h1 align="center">Just 4 Code, no Speciall</h1>
+<h1 align="center">Just 4 Code, no Special</h1>
 
-- 🌱 I’m currently work with ** Express Js**
+- 🌱 I’m currently work with **Js**
 
 - 📫 How to reach me **doniprastyo1999@gmail.com**
 
