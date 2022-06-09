@@ -1,8 +1,8 @@
-<h1 align="center">Just Code, no Speciall</h1>
+<h1 align="center">Just 4 Code; , no Speciall</h1>
 
 - 🌱 I’m currently work with ** Express Js**
 
-- 📫 How to reach me **doniprastyo@gmail.com**
+- 📫 How to reach me **doniprastyo1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
