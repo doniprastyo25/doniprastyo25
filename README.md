@@ -1,4 +1,4 @@
-<h1 align="center">Just 4 Code; , no Speciall</h1>
+<h1 align="center">Just 4 Code, no Speciall</h1>
 
 - 🌱 I’m currently work with ** Express Js**
 
