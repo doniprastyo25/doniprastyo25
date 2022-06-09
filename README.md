@@ -1,5 +1,4 @@
-<h1 align="center">Hello👋, I'm doniprastyo25</h1>
-<h3 align="center">I'm Doni Prastyo, I'm familiar with HTML, CSS, Javascript , and I,m on developing accounting app with node js, express js with ejs as templating engine, I'm not expert with that technology but i've enthusiast for keep learning and improve my english.</h3>
+<h1 align="center">Just Code, no Speciall</h1>
 
 - 🌱 I’m currently work with ** Express Js**
 
