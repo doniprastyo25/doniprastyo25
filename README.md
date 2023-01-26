@@ -1,6 +1,6 @@
 <h1 align="center">Just 4 Code, no Special</h1>
 
-- 🌱 I’m currently work with **Js**
+- 🌱 I’m currently work
 
 - 📫 How to reach me **doniprastyo1999@gmail.com**
 
